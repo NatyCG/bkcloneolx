@@ -68,6 +68,7 @@
     "escape-html": "^1.0.3",
     "etag": "^1.8.1",
     "exif-parser": "^0.1.12",
+    "express-validator": "^6.15.0",
     "fast-xml-parser": "^4.0.11",
     "file-type": "^16.5.4",
     "finalhandler": "^1.2.0",
